@@ -1,0 +1,77 @@
+body {
+    height: 250px;
+}
+
+#elem1, #elem2, #elem3, #elem4, #elem5, #elem6, #elem7, #elem8, #elem9, #elem10, #elem11, #elem12 {
+    width: 50px;
+    height: 50px;
+    position:absolute;
+}
+
+#elem1 {
+    border: 1px solid red ;
+    left: 30px;
+    top: 30px;
+}
+
+#elem2 {
+    border: 1px solid blue ;
+    left: 100px;
+    top: 100px;
+}
+
+#elem3 {
+    border: 1px solid green ;
+    left: 170px;
+    top: 170px;
+}
+
+#elem4 {
+    border: 1px solid red ;
+    left: 30px;
+    top: 300px;
+}
+
+#elem5 {
+    border: 1px solid blue ;
+    left: 100px;
+    top: 300px;
+}
+
+#elem6 {
+    border: 1px solid green ;
+    left: 170px;
+    top: 300px;
+}
+
+#elem7 {
+    border: 1px solid red ;
+    left: 30px;
+    top: 400px;
+}
+#elem8 {
+    border: 1px solid blue ;
+    left: 60px;
+    top: 430px;
+}
+#elem9 {
+    border: 1px solid green ;
+    left: 90px;
+    top: 460px;
+}
+
+#elem10 {
+    background-color:  red ;
+    left: 30px;
+    top: 560px;
+}
+#elem11 {
+    background-color:  blue ;
+    left: 60px;
+    top: 590px;
+}
+#elem12 {
+    background-color:  green ;
+    left: 90px;
+    top: 620px;
+}
